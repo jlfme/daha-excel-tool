@@ -1,0 +1,1 @@
+pyinstaller -n app -c -F -i tool.ico main.py
